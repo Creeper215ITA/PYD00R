@@ -1,8 +1,8 @@
 import socket
 import subprocess
 
-ip = "192.168.178.128"
-port = 25565
+ip = "xxx.xxx.xxx.xxx" #put the ip
+port = xxxxx #put the port
 
 
 print("Client Started...")
