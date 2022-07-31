@@ -1,2 +1,4 @@
-# pyd00r-The-Backdoor-writed-in-Python
-A Backroom writed in python
+# pyd00r, the BackDoor writed only in Python
+
+
+## HOW TO CONFIGURE
