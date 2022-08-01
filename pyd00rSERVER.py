@@ -32,10 +32,7 @@ while True:
 
 
 
-    command = input('Command: ')
-    command = command.encode()
-    sock.send(command)
-    print('[+] Command sent')
+    
     output = sock.recv(1024)
     output = output.decode()
     print(f"Output: {output}")
